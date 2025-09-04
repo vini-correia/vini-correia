@@ -1,10 +1,9 @@
-# Olá! Eu sou Vinicius Correia 👋
+# Olá! Eu sou Vinicius Correia 
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos nos quais venho trabalhando.
 
----
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-correia&layout=compact&theme=dark&hide_border=true&locale=pt-br"/>
 
