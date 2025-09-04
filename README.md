@@ -6,10 +6,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos no
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-correia&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="150"/>
-</div>
-
 <div style="display: flex; justify-content: center; gap: 10px;" align="center">
   <img alt="Java" height="36" width="48" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="JavaScript" height="36" width="48" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,6 +16,10 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos no
   <img alt="Git" height="36" width="48" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" height="36" width="48" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Linux" height="36" width="48" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-correia&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="150"/>
 </div>
 
 ---
