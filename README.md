@@ -23,11 +23,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos no
 
 ---
 
-### Sobre Mim
+Apaixonado por tecnologia e resoluções de problemas através do código. Desenvolvi aplicações utilizando Java e JavaScript.
 
-Desenvolvedor com conhecimento sólido em **JavaScript** e **Java**. Ao longo da minha trajetória acadêmica, contribuí para o desenvolvimento de projetos para empresas como a Edenred.
-
-Estou sempre estudando novas tecnologias e tendências no mundo da programação, buscando formas de aplicar meu conhecimento em projetos práticos.
+Com experiência prática em projetos desenvolvidos em colaboração com grandes empresas como a Edenred, busco constantemente evoluir e explorar novas fronteiras e desafios na programação, almejando minha primeira oportunidade na área de tecnologia.
 
 ---
 
