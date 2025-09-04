@@ -9,7 +9,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos no
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-correia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-correia&layout=compact&langs_count=10&exclude_repo=YOUR_EXCLUDED_REPO_1,YOUR_EXCLUDED_REPO_2&theme=dark&hide_title=true&hide_border=true&card_width=320&locale=pt-br" />
+</p>
 
 ## 💼 Sobre mim
 
